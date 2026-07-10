@@ -103,22 +103,6 @@ I built backend modules for our internal ERP system, including REST API integrat
 
 <br/>
 
-## 🔥 Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Astar236&theme=nord&border=cf4834&ring=cf4834&fire=cf4834&currStreakLabel=cf4834" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Astar236&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astar236&theme=react-dark&color=cf4834&line=cf4834&point=cf4834&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
 ## 📫 Connect With Me
 
 <div align="center">
